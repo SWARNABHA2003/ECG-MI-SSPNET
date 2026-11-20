@@ -1,0 +1,15 @@
+# data, caches and trained weights (large; not part of the repository)
+ptbxl_cache*/
+runs/
+*.npy
+*.npz
+*.pt
+real_ecg_figures/
+# Python / environments
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# misc
+*.zip
+.DS_Store

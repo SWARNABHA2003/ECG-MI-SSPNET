@@ -1,0 +1,11 @@
+# Training notebooks and the web app (CPU is enough)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+numpy
+scipy
+pandas
+scikit-learn
+matplotlib
+wfdb
+streamlit>=1.30
+jupyter
